@@ -1,23 +1,25 @@
 # myStore
 
+<<<<<<< Step One
+
 1) Running this application will first display all of the items available for sale. Including the following:
  ids, names, and prices of products for sale.
 
-<<<<<<< HEAD
+
 
 
 =======
 ![](images/1.png)
 >>>>>>> 03b13d1a9f87eef892b7e81ff654809dc4b8b0b2
 
-
+<<<<<<< Step Two
 2) The user is prompted with two questions (found bellow) with the use of inquirer.
 
 ---The first ask's user the ID of the product they would like to buy.
 ---The second message ask's user how many units of the product they would like to buy.
 
 
-<<<<<<< HEAD
+<<<<<<< Step Three
 
 =======
 ![](images/2.png)
@@ -28,7 +30,7 @@
 Once the update goes through, we show the customer the total cost of their purchase.
 
 
-<<<<<<< HEAD
+<<<<<<< Step Four
 
 
 =======
@@ -38,7 +40,7 @@ Once the update goes through, we show the customer the total cost of their purch
 4) If the user types in an id that doesnt exist, user is prevented from completing the order.
 
 
-<<<<<<< HEAD
+<<<<<<< ERROR
 =======
 ![](images/4.png)
 >>>>>>> 03b13d1a9f87eef892b7e81ff654809dc4b8b0b2
